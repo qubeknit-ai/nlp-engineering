@@ -9,8 +9,7 @@ wheels/
 # Virtual environments
 .venv
 
-
-#folders
-/lab2
+# Folders
+/labs/lab2
 
 

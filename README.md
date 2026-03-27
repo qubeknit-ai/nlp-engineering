@@ -2,10 +2,11 @@
 
 Welcome to the **NLP Engineering** project repository, created for NAVTTC. This repository contains the essential documentation, interactive lab notebooks, and utilities for exploring and learning Natural Language Processing (NLP) engineering concepts.
 
-## 🚀 Features & Contents
+## 🚀 Project Structure
 
-- **Labs (`/labs`)**: Contains instructional Jupyter Notebooks covering various NLP concepts, such as Text Preprocessing (`M1_L1_lecture_nb_01_preprocessing.ipynb`).
-- **Notebooks (`/notebooks`)**: Directory allocated for experiments, additional notebooks, and exploratory data analysis.
+- **Labs (`/labs`)**: Contains the core instructional material organized step-by-step (e.g., Lab 1, Lab 2, etc.). These Jupyter Notebooks cover various foundational NLP concepts and techniques.
+- **Level-Ups (`/level-ups`)**: My personal contributions, assignments, and hands-on practice. This section tracks my learning progress and practical problem-solving as I dive deeper into Natural Language Processing.
+- **Notebooks (`/notebooks`)**: A general directory allocated for supplementary experiments and exploratory data analysis.
 - **Core Dependencies**: The project leverages industry-standard NLP libraries like `nltk` and `spacy`, alongside `matplotlib` for data visualization.
 
 ## 🛠️ Setup & Installation
